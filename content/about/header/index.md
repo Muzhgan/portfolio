@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, my name is Muzhgan Yaftali. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I'm a database Developer, Administrator and Analyst. :fr: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I a Certified Database Associate from IBM and Microsoft certified professional in database development with bachelor’s degree in Computer Science and currently in 3rd semester of Data Analytics for business in St. Clair college, hands-on experience overseeing the design, development, data entry, data cleaning, data visualization and administering several database systems, Microsoft Office and Google Suite. 
